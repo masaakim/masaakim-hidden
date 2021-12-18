@@ -10,7 +10,7 @@
 - Create UIs for web and mobile apps
 - Build design systems
 - Information Architecture
-- Create things with a structed Visual Identity
+- Create things with a structured Visual Identity
 - Graphics & Illustrations
 
 ### As a Developer 👨‍💻
