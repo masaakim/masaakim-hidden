@@ -1,8 +1,3 @@
-## About
-
-- Masaaki Morishita
-- Designer / Developer (self-employed)
-
 ## Skills
 
 ### As a Designer 🎨
